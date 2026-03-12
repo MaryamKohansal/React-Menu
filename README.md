@@ -31,4 +31,4 @@ A small practice project built with **React** to display a menu of items. This p
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/react-menu.git
+git clone https://github.com/MaryamKohansal/react-menu.git
