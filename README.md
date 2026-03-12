@@ -6,7 +6,7 @@ A small practice project built with **React** to display a menu of items. This p
 
 ## 📸 Screenshot
 
-![Menu Screenshot](./Menu.png)
+![Menu Screenshot](Menu.png)
 
 ---
 
@@ -24,11 +24,4 @@ A small practice project built with **React** to display a menu of items. This p
 - CSS  
 - JavaScript
 
----
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/MaryamKohansal/react-menu.git
