@@ -6,7 +6,7 @@ A small practice project built with **React** to display a menu of items. This p
 
 ## 📸 Screenshot
 
-![Menu Screenshot](Menu.png)
+(Menu.png)
 
 ---
 
